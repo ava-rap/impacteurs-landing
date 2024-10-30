@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Rubik+Mono+One&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+  	font-family: "Poppins", serif;
+	font-size: 18px;
+	margin: 0px;
+	color: #93ABA9;
+}
+
+h1, h2, h3 {
+	font-family: "Rubik Mono One", serif;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+}
